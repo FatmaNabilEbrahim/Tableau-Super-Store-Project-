@@ -47,3 +47,7 @@ This Tableau dashboard project provides a comprehensive view of Super Store sale
 ![3](https://github.com/FatmaNabilEbrahim/Tableau-Super-Store-Project-/assets/105246862/ba94d9ed-f18a-4909-99bd-2b0b706b921e)
 
 
+
+https://github.com/FatmaNabilEbrahim/Tableau-Super-Store-Project-/assets/105246862/14633b8d-725e-4188-8cba-4a7dbf7856e0
+
+
